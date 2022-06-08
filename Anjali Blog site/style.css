@@ -103,10 +103,10 @@ header h1 {
     display: flex;
   }
   .box {
-    border: 5px solid brown;
+    border: 5px solid rgb(85, 20, 190);
     width: 33%;
     margin: 2px 30px;
-    background: palegoldenrod;
+    background:whitesmoke;
   }
   #foodImage {
     width: 100%;
